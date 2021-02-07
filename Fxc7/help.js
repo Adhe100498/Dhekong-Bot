@@ -9,7 +9,7 @@ ${instagram}
 ${yt}
 
 \`\`\`GROUP OFFICIAL\`\`\`
-https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
+https://chat.whatsapp.com/JUIIA51nd4wHmrMSsF9lFq
 
 
 \`\`\`HARAP BACA NOTE DIBAWAH SEBELUM\`\`\`
@@ -317,10 +317,10 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 
 ╭─────「 *SUPPORT ${name}* 」
 ┴
-│➲ *O BOT*
-│➲ *M. HADI FIRMANSYA*
-│➲ *DELIA AULIA*
-│➲ *KEVIN DAVID*
+│➲ *ALLAH SWT*
+│➲ *KEDUA ORANGTUA*
+│➲ *SAHABAT*
+│➲ *DO'I. HWHW*
 │➲ *MY TEAM FXC7 BOT*
 │➲ *CONTENT CREATOR BOT WHATSAPP*
 ┬
@@ -345,8 +345,8 @@ const donasi = (name) => {
 	return `       
 ╭─────「 *DONASI SEIKHLASNYA* 」
 ┴
-│√ *PULSA: 08311800241*
-│√ *OVO : 08311800241*
+│√ *PULSA: 082223049262*
+│√ *OVO : 082223049262*
 ┬
 ╰──────「 *BY ${name}* 」
 
